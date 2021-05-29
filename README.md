@@ -132,7 +132,7 @@ Allows real-time, bidirectional communications
 - Ionic
 - Xamarin
 - Kotlin
-- Switf
+- Swift
 
 ## Progressive Web Apps (PWA)
 
